@@ -1,0 +1,13 @@
+{
+  "name": "viewport",
+  "version": "0.0.1",
+  "dependencies": {
+    "debianw/backbone": "*"
+  },
+  "styles": [
+    "style.css"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}

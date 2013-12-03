@@ -1,0 +1,9 @@
+#viewport {
+  height: 100%;
+  background: #ebebeb;
+}
+
+#viewport > div {
+  border: 1px solid red;
+  padding: 20px;
+}

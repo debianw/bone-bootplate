@@ -1,0 +1,16 @@
+{
+  "name": "admin-settings",
+  "version": "0.0.1",
+  "dependencies": {
+    "debianw/backbone": "*"
+  },
+  "scripts": [
+    "index.js",
+    "template.js",
+    "view.js"
+  ],
+
+  "local": [
+    "base-view"
+  ]
+}

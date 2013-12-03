@@ -1,0 +1,10 @@
+{
+  "name": "base-view",
+  "version": "0.0.1",
+  "dependencies": {
+    "debianw/backbone": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "home",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "debianw/backbone": "*"
+  },
+  "scripts": [
+    "index.js",
+    "view.js",
+    "template.js"
+  ],
+  "local": [
+    "base-view",
+    "banner"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "viewer",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "~3.4.4",
+    "component": "~0.18.0"
+  }
+}

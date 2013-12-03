@@ -1,0 +1,14 @@
+{
+  "name": "viewer",
+  "description": "Handle the View layer on Single page apps.",
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "local": [
+    "boot"
+  ],
+  "paths": [
+    "lib"
+  ]
+}
