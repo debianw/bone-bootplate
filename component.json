@@ -1,6 +1,6 @@
 {
-  "name": "viewer",
-  "description": "Handle the View layer on Single page apps.",
+  "name": "bone-bootplate",
+  "description": "Basic app structure based on Componentes and Backbonejs.",
   "version": "0.0.1",
   "dependencies": {
 
